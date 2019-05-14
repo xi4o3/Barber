@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "436921715928",
+    "firebase_url": "https://barber-2e545.firebaseio.com",
+    "project_id": "barber-2e545",
+    "storage_bucket": "barber-2e545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436921715928:android:8ea6035fe661b346",
+        "android_client_info": {
+          "package_name": "com.example.barber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436921715928-certf9rfqr7fakjbgatrf7lrrhkme5h9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barber",
+            "certificate_hash": "aa1dc1b5e3d70a167c9e64dcdd036496aa8e9e56"
+          }
+        },
+        {
+          "client_id": "436921715928-rfs2dvk2r1gjl38bg99m03k1cc81un29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEF0ts3oqGSkmi5fvpApSHcStCgc6oONA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436921715928-rfs2dvk2r1gjl38bg99m03k1cc81un29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
